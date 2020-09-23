@@ -1,0 +1,7 @@
+---------------------Window Spy v 1.0---------------------
+
+	Hello All of You This Code is useful for those who want to work with the handles of windows and the classes of windows. Say for example I want to launch some application in the middle of the execution of my program. I would use Shell execute method. I would also set focus state with it but to make it more proffesional looking I want to change Caption of that window to something else. How should I find its hWnd property??? Every-time I launch that application its handle changes so I can't store it in a Constant or a Variable. Also to find its handle I have to find its Window Class. This Will Solve all the Problems. Now You can Play with the Compiled Exe's and Fine-Tune them to Display what You want. You can also make Password-Viewers From This. If you are interested in anything Like it than please ask me. I will be glad to help you with it.
+
+	This Code is not very Hi-Fi or Something Great. But I would appreciate that If You Use this in Your Application than Please Mention My name in it's Read-me or Just VOTE for Me On PSC. It will encourage me to come out with more stuff like this. My main aim over here is to provide some thing for begineers who want to Learn different things in VB. In future also my Codes will just focus on small but powerful tricks which can be useful to all of you. If you have any Questions than Please email me at :- keral82@keral.com 
+
+	Thanking You. For Reading all this and Hoping that you would like this.
